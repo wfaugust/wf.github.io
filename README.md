@@ -1,4 +1,4 @@
-# xiaotianbai.com
+# wang-axiom.com
 
 Personal website adapted from the Jekyll theme.
 
